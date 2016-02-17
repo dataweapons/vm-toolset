@@ -1,0 +1,4 @@
+http://wiki.openwrt.org/doc/hardware/soc/soc.allwinner.sunxi#installationprocess
+
+http://wiki.openwrt.org/toh/lemaker/bananapi
+
