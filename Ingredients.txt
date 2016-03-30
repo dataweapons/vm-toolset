@@ -6,3 +6,9 @@
      (MD5: d1498749e073ef7fd09f84478f299bea, SHA1: aa659499dc300fe2be00d756180793093cc15014)
      http://archive.ubuntu.com/ubuntu/dists/wily/main/installer-amd64/current/images/netboot/mini.iso
      https://help.ubuntu.com/community/Installation/FromImgFiles/
+
+http://www.emc.com/auth/vvnxsoftwaredownload.htm
+
+https://h20392.www2.hpe.com/portal/swdepot/displayProductInfo.do?productNumber=VSA1TB-S
+https://h20392.www2.hpe.com/portal/swdepot/displayProductInfo.do?productNumber=STOREONCEVSA1TB
+
