@@ -1,0 +1,8 @@
+[01] Packetfence NAC:
+     http://downloads.sourceforge.net/project/packetfence/PacketFence%20ZEN/5.7.0/PacketFence-ZEN-5_7_0.zip
+
+
+[02] mini boot - Ubuntu: Ubuntu 15.10 "Wily Werewolf" 40MB 
+     (MD5: d1498749e073ef7fd09f84478f299bea, SHA1: aa659499dc300fe2be00d756180793093cc15014)
+     http://archive.ubuntu.com/ubuntu/dists/wily/main/installer-amd64/current/images/netboot/mini.iso
+     https://help.ubuntu.com/community/Installation/FromImgFiles/
