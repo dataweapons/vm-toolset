@@ -12,3 +12,5 @@ http://www.emc.com/auth/vvnxsoftwaredownload.htm
 https://h20392.www2.hpe.com/portal/swdepot/displayProductInfo.do?productNumber=VSA1TB-S
 https://h20392.www2.hpe.com/portal/swdepot/displayProductInfo.do?productNumber=STOREONCEVSA1TB
 
+
+https://nexenta.com/products/downloads/nexentastor-community-edition-download
